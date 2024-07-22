@@ -31,10 +31,8 @@ The NPR article[^2] linked in the second footnote is worth the 5 minutes to read
 
 
 
-[^1]: Lambeau, K.V. and McRorie, J.W., Jr. (2017), Fiber supplements and clinically proven health benefits: How to recognize and recommend an effective fiber therapy. Journal of the American Association of Nurse Practitioners, 29: 216-223. [https://doi.org/10.1002/2327-6924.12447][https://doi.org/10.1002/2327-6924.12447]
+[^1]: Lambeau, K.V. and McRorie, J.W., Jr. (2017), Fiber supplements and clinically proven health benefits: How to recognize and recommend an effective fiber therapy. Journal of the American Association of Nurse Practitioners, 29: 216-223. [https://doi.org/10.1002/2327-6924.12447](https://doi.org/10.1002/2327-6924.12447)
 
 [^2]: [*Less snacking, more satisfaction: Some foods boost levels of an Ozempic-like hormone*, NPR][npr article]
 
 [npr article]: https://www.npr.org/sections/health-shots/2023/10/30/1208883691/diet-ozempic-wegovy-weight-loss-fiber-glp-1-diabetes-barley
-
-[https://doi.org/10.1002/2327-6924.12447]: https://doi.org/10.1002/2327-6924.12447
