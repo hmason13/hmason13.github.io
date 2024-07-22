@@ -1,8 +1,38 @@
 ---
 layout: post
-title:  "Fiber?"
+title:  "Fiber? Fiber!"
 date:   2024-06-20 15:39:04 -0400
-categories: jekyll update
+categories: other
 ---
 
-We don't get enough fiber in our diets. 
+Here are two interesting facts about fiber I've just learned. I'll now be taking a beta-glucan and psyllium supplement with every meal!
+
+### Some types of fiber are useless[^1]
+The best type of fiber is from unprocessed or lightly processed high fiber foods, but fiber supplements are the next best thing. Effective fiber supplements are water soluble and form a goopy gel once wet. Most available fiber supplements do not have this feature. Check out the science paper[^1] for more complete details.
+
+Some good fibers:
+1. beta-glucan      (found in oats, rye, barley)
+2. Psyllium         (Metamucil, from mushrooms)
+
+Some useless fibers:
+1. wheat bran
+2. Wheat dextrin    (Benefiber)
+3. Inulin           (Fiber-Choice)
+4. Guar gum
+
+Useless is not an exaggeration. According to that paper. the bad fibers listed above performed no better than placebo when testing touted benefits like bowel regularity, lowering cholesterol, and managing insulin levels. Be sure to check what type of fiber you're using!
+
+### Fiber is the natural Ozempic[^2]
+Ozempic is the miracle weight loss drug permeating pop culture. Turns out, it mimics a natural hormone produced by the body after eating: GLP-1. Long story short, eating beta-glucan fiber will boost your body's production of this hormone.
+
+The NPR article[^2] linked in the second footnote is worth the 5 minutes to read it.
+
+
+
+
+
+[^1]: Lambeau, K.V. and McRorie, J.W., Jr. (2017), Fiber supplements and clinically proven health benefits: How to recognize and recommend an effective fiber therapy. Journal of the American Association of Nurse Practitioners, 29: 216-223. https://doi.org/10.1002/2327-6924.12447
+
+[^2]: [*Less snacking, more satisfaction: Some foods boost levels of an Ozempic-like hormone*, NPR][npr article]
+
+[npr article]: https://www.npr.org/sections/health-shots/2023/10/30/1208883691/diet-ozempic-wegovy-weight-loss-fiber-glp-1-diabetes-barley
