@@ -35,7 +35,10 @@ github: [metadata]
 remote_theme: jekyll/minima
 plugins:
 header_pages:
+  - pages/researchParent.md
   - pages/publicationsParent.md
+  - pages/cvParent.md
+#  - pages/blogParent.md
 minima:
   skin: auto
 
