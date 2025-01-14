@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Test page
-permalink: /test/
+title: Publications
+permalink: /publications/
 ---
 
 A test page. This website is currently under construction!

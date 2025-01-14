@@ -18,33 +18,34 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Under construction
-email: hcm7920 nyu edu
+title: "Home"
+email: "hcm7920 nyu edu"
 description: >- # this means to ignore newlines until "baseurl:"
- Welcome!
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  hmason13
 github: [metadata]
-testval: hold1
 
 # Build settings
 #theme: minima
 remote_theme: jekyll/minima
 plugins:
-  - jekyll-feed
+header_pages:
+  - index.md
+  - pages/publicationsParent.md
 minima:
   skin: auto
 
   # Generate social links in footer.
-  #social_links:
+  social_links:
   #  - { platform: devto,          user_url: "https://dev.to/jekyll" }
   #  - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
   #  - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
   #  - { platform: flickr,         user_url: "https://www.flickr.com/photos/jekyll" }
-  #  - { platform: github,         user_url: "https://github.com/jekyll/minima" }
+    - { platform: github,         user_url: "https://github.com/hmason13" }
   #  - { platform: gitlab,         user_url: "https://gitlab.com/jekyll" }
-  #  - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
+    - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=DgPFHWIAAAAJ" }
   #  - { platform: instagram,      user_url: "https://www.instagram.com/jekyll" }
   #  - { platform: keybase,        user_url: "https://keybase.io/jekyll" }
   #  - { platform: linkedin,       user_url: "https://www.linkedin.com/in/jekyll" }
@@ -64,14 +65,14 @@ minima:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
