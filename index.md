@@ -3,7 +3,8 @@ layout: page
 permalink: /
 ---
 
-![portrait](/assets/portrait.png)
+{: style="text-align: center;" }
+![portrait](/assets/portrait.png){: width="40%"}
 
 I am a PhD candidate in the [Center for Atmosphere Ocean Science](https://caos.cims.nyu.edu/dynamic/) at NYU Courant. My science centers around Arctic oceanography.
 
