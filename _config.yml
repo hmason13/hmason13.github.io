@@ -81,4 +81,4 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
-  - .DS_store
+  - .DS_Store
