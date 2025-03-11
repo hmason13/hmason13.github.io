@@ -21,7 +21,7 @@
 # title: "Home"
 title: "Hassan's Website"
 author:
-#  name: Hassan Mason
+  name: Hassan Mason
   email: "hcm7920 nyu edu"
 description: >- # this means to ignore newlines until "baseurl:"
 # Hassan's personal website
@@ -35,10 +35,10 @@ github: [metadata]
 remote_theme: jekyll/minima
 plugins:
 header_pages:
-#  - index.md
   - pages/researchParent.md
   - pages/publicationsParent.md
   - pages/cvParent.md
+#  - index.md
 #  - pages/blogParent.md
 minima:
   skin: auto
