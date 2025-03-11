@@ -38,8 +38,6 @@ header_pages:
   - pages/researchParent.md
   - pages/publicationsParent.md
   - pages/cvParent.md
-#  - index.md
-#  - pages/blogParent.md
 minima:
   skin: auto
 
