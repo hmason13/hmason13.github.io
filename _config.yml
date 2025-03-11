@@ -32,7 +32,7 @@ github: [metadata]
 
 # Build settings
 #theme: minima
-remote_theme: jekyll/minima
+remote_theme: jekyll/minima@ac651a1
 #plugins:
 header_pages:
   - pages/researchParent.md
