@@ -33,7 +33,7 @@ github: [metadata]
 # Build settings
 #theme: minima
 remote_theme: jekyll/minima
-plugins:
+#plugins:
 header_pages:
   - pages/researchParent.md
   - pages/publicationsParent.md
