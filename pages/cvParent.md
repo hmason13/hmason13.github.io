@@ -4,9 +4,9 @@ title: CV
 permalink: /cv/
 ---
 
-[Link to CV][link-to-cv]
+[Link to pdf][link-to-cv]
 
-<object data="/assets/Official_CV.pdf" type="application/pdf" width="90%">
-</object>
+<iframe data="/assets/Official_CV.pdf" type="application/pdf" width="90%">
+</iframe>
 
 [link-to-cv]: /assets/Official_CV.pdf
