@@ -9,4 +9,4 @@ permalink: /cv/
 
 [Link to CV][link-to-cv]
 
-[link-to-cv]: /hmason13.github.io/assets/Official_CV.pdf
+[link-to-cv]: /assets/Official_CV.pdf
